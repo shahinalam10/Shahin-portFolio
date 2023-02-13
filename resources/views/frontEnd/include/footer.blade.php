@@ -7,7 +7,7 @@
             <a href="https://twitter.com/Mdshaheenalam85" target="_blank" class="twitter"><i class="fa-brands fa-twitter"></i></a>
             <a href="https://www.linkedin.com/in/md-shahin-alam-b3a9b120b/" target="_blank" class="linkedin"><i class="fa-brands fa-linkedin-in"></i></a>
             <a href="#" class="skype"><i class="fa-brands fa-skype"></i></a>
-            <a href="https://www.instagram.com/shaheen_alam85/"target="_blank" class="instagram"><i class="fa-brands fa-instagram"></i></a>
+            <a href="https://www.instagram.com/shaheen_alam85/" target="_blank" class="instagram"><i class="fa-brands fa-instagram"></i></a>
 
 
         </div>
